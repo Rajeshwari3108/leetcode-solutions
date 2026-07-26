@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [3536-maximum-product-of-two-digits](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/0242-valid-anagram) |
+## Math
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->

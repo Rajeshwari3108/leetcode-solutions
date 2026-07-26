@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Math
 |  |

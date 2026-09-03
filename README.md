@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Binary Search
 |  |

@@ -9,7 +9,8 @@ class Solution {
 
             while (sumOfCurrentWindow >= target) {
                 res = Math.min(res, right - left + 1);
-                sumOfCurrentWindow -= nums[left++];
+                sumOfCurrentWindow -= nums[left];
+                left++;
             }
         }
 

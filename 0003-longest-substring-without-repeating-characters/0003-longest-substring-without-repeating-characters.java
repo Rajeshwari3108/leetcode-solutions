@@ -9,9 +9,7 @@ class Solution {
             }
             set.add(s.charAt(r));
             max=Math.max(max,r-l+1);
-
         }
         return max;
-
     }
 }

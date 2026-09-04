@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0088-merge-sorted-array](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Rajeshwari3108/leetcode-solutions/tree/master/0389-find-the-difference) |
